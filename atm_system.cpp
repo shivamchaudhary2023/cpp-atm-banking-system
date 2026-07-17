@@ -12,7 +12,7 @@ struct Account {
 };
 
 // Global account (simple single account system)
-Account userAccount = {"Shivam ", "ACC123456", "1234", 50000.00};
+Account userAccount = {"Shivam Chaudhary", "ACC123456", "1234", 10000000.00};
 
 // Function to clear screen (Windows compatible)
 void clearScreen() {
